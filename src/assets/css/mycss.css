@@ -1,0 +1,18 @@
+#header-style{
+    border-bottom: 2px solid #149ddd;
+    padding-bottom: 6px;
+}
+button:focus {
+    outline: none !important; 
+}
+.card-style{
+padding-top: 0px !important;
+padding-bottom: 0px;
+}
+.p-style{
+    padding-bottom: 0px !important;
+    margin-bottom: 6px !important;
+}
+.card-style-3{
+    padding-top: 5px;
+}
